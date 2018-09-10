@@ -66,7 +66,7 @@ You must replace <code>meowmeowmeow</code> with your personal API key.
 </aside>
 
 # Kittens
-
+##Some Subtitle here
 ## Get All Kittens
 
 ```ruby
